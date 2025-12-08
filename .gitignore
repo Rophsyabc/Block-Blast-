@@ -1,0 +1,28 @@
+# Gradle files
+.gradle
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+app/build/
+gradle/
+
+# Keystore (keep private)
+*.jks
+*.keystore

@@ -1,0 +1,43 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.Soardev.blockblast'
+    compileSdk 35
+
+    signingConfigs {
+        release {
+            storeFile file('../blockblast.jks')
+            storePassword 'BlockBlast@2025'
+            keyAlias 'blockblast_key'
+            keyPassword 'BlockBlast@2025'
+        }
+    }
+
+    defaultConfig {
+        applicationId "com.Soardev.blockblast"
+        minSdk 24
+        targetSdk 35
+        versionCode 1
+        versionName "1.0"
+    }
+    
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+        }
+        debug {
+            signingConfig signingConfigs.release
+        }
+    }
+    
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation 'com.google.android.gms:play-services-ads:22.6.0'
+}

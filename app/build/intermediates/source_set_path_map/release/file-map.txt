@@ -1,0 +1,21 @@
+com.Soardev.blockblast.app-jetified-annotation-experimental-1.1.0-0 C:\Users\USER\.gradle\caches\9.0-milestone-1\transforms\05b2fff0b1601f46d6f3d7eaa6668236\transformed\jetified-annotation-experimental-1.1.0\res
+com.Soardev.blockblast.app-jetified-play-services-basement-18.2.0-1 C:\Users\USER\.gradle\caches\9.0-milestone-1\transforms\219eaca1412bf7a2c023d46e40318ca9\transformed\jetified-play-services-basement-18.2.0\res
+com.Soardev.blockblast.app-core-1.8.0-2 C:\Users\USER\.gradle\caches\9.0-milestone-1\transforms\2daf705e23f318c603783c2873d69901\transformed\core-1.8.0\res
+com.Soardev.blockblast.app-jetified-startup-runtime-1.0.0-3 C:\Users\USER\.gradle\caches\9.0-milestone-1\transforms\57666b7f3a2b9509202c1e8d407b0116\transformed\jetified-startup-runtime-1.0.0\res
+com.Soardev.blockblast.app-work-runtime-2.7.0-4 C:\Users\USER\.gradle\caches\9.0-milestone-1\transforms\68dd2fed7e72adb2ff47422fe01c5ed2\transformed\work-runtime-2.7.0\res
+com.Soardev.blockblast.app-jetified-play-services-ads-22.6.0-5 C:\Users\USER\.gradle\caches\9.0-milestone-1\transforms\6eaa7c9b0659925afdeeaefd5514b84c\transformed\jetified-play-services-ads-22.6.0\res
+com.Soardev.blockblast.app-coordinatorlayout-1.0.0-6 C:\Users\USER\.gradle\caches\9.0-milestone-1\transforms\8a7ef32eec0f7cf3f30c57392e260659\transformed\coordinatorlayout-1.0.0\res
+com.Soardev.blockblast.app-jetified-core-ktx-1.8.0-7 C:\Users\USER\.gradle\caches\9.0-milestone-1\transforms\8b36b2be2adc7ad6a27ec567241b4330\transformed\jetified-core-ktx-1.8.0\res
+com.Soardev.blockblast.app-jetified-ads-adservices-1.0.0-beta05-8 C:\Users\USER\.gradle\caches\9.0-milestone-1\transforms\907a37ff3048bafaf3c73012f55eec04\transformed\jetified-ads-adservices-1.0.0-beta05\res
+com.Soardev.blockblast.app-browser-1.4.0-9 C:\Users\USER\.gradle\caches\9.0-milestone-1\transforms\9111a4333f897f1e56e2341a266eb782\transformed\browser-1.4.0\res
+com.Soardev.blockblast.app-jetified-play-services-ads-lite-22.6.0-10 C:\Users\USER\.gradle\caches\9.0-milestone-1\transforms\cba8a965ca57e04cedffbe0577d694fb\transformed\jetified-play-services-ads-lite-22.6.0\res
+com.Soardev.blockblast.app-jetified-play-services-base-18.0.0-11 C:\Users\USER\.gradle\caches\9.0-milestone-1\transforms\ce972889826d48a95231df1551e2c656\transformed\jetified-play-services-base-18.0.0\res
+com.Soardev.blockblast.app-jetified-ads-adservices-java-1.0.0-beta05-12 C:\Users\USER\.gradle\caches\9.0-milestone-1\transforms\d691c6123ccd229fa43e959d80af5fd6\transformed\jetified-ads-adservices-java-1.0.0-beta05\res
+com.Soardev.blockblast.app-lifecycle-runtime-2.3.1-13 C:\Users\USER\.gradle\caches\9.0-milestone-1\transforms\fc0de8c099a522c47fe09ed829ab00fc\transformed\lifecycle-runtime-2.3.1\res
+com.Soardev.blockblast.app-pngs-14 C:\Users\USER\Documents\Block Blast clone\BlockBlastClone\app\build\generated\res\pngs\release
+com.Soardev.blockblast.app-resValues-15 C:\Users\USER\Documents\Block Blast clone\BlockBlastClone\app\build\generated\res\resValues\release
+com.Soardev.blockblast.app-packageReleaseResources-16 C:\Users\USER\Documents\Block Blast clone\BlockBlastClone\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.Soardev.blockblast.app-packageReleaseResources-17 C:\Users\USER\Documents\Block Blast clone\BlockBlastClone\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.Soardev.blockblast.app-merged_res-18 C:\Users\USER\Documents\Block Blast clone\BlockBlastClone\app\build\intermediates\merged_res\release
+com.Soardev.blockblast.app-main-19 C:\Users\USER\Documents\Block Blast clone\BlockBlastClone\app\src\main\res
+com.Soardev.blockblast.app-release-20 C:\Users\USER\Documents\Block Blast clone\BlockBlastClone\app\src\release\res
